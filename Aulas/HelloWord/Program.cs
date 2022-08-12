@@ -1,4 +1,6 @@
-﻿namespace HelloWord
+﻿using System;
+
+namespace HelloWord
 {
     internal class Program
     {
