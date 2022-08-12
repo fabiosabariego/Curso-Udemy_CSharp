@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+befBhmBdTp1N9mvQWjnodNteEI2VUrsHLJAE186d+WoHxUChqkreO+W50ckvnqNGh5PjsqKXXZwTqDdcaEFxw==",
+  "dgSpecHash": "jjTgc8XnHg/raASjmT+WTEi3Bw02KFWdEnHi193plKBJCVk9s5u+YkutqIL2hZ8Y6zba6JqSBSXw0l2LIs3b6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Aulas\\HelloWord\\HelloWord.csproj",
+  "projectFilePath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Aulas\\HelloWord\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
