@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\bin\Debug\net6.0\StringsManipulation.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\bin\Debug\net6.0\StringsManipulation.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\bin\Debug\net6.0\StringsManipulation.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\bin\Debug\net6.0\StringsManipulation.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\bin\Debug\net6.0\StringsManipulation.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\refint\StringsManipulation.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\StringsManipulation.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\StringsManipulation\obj\Debug\net6.0\ref\StringsManipulation.dll
