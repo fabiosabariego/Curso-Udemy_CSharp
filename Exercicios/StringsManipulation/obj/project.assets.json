@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\StringsManipulation\\StringsManipulation.csproj",
-      "projectName": "StringsManipulation",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\StringsManipulation\\StringsManipulation.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\StringsManipulation\\Ex01_StringsManipulation.csproj",
+      "projectName": "Ex01_StringsManipulation",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\StringsManipulation\\Ex01_StringsManipulation.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\StringsManipulation\\obj\\",
       "projectStyle": "PackageReference",

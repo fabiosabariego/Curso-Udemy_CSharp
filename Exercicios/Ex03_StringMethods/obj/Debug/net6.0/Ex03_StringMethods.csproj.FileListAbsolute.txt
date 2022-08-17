@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\bin\Debug\net6.0\Ex03_StringMethods.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\bin\Debug\net6.0\Ex03_StringMethods.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\bin\Debug\net6.0\Ex03_StringMethods.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\bin\Debug\net6.0\Ex03_StringMethods.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\bin\Debug\net6.0\Ex03_StringMethods.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\refint\Ex03_StringMethods.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\Ex03_StringMethods.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex03_StringMethods\obj\Debug\net6.0\ref\Ex03_StringMethods.dll
