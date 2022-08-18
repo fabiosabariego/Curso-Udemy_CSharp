@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants", "Constants\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMethods", "CreateMethods\CreateMethods.csproj", "{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{1376046C-1B67-4477-80E6-BB47F95F51BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
