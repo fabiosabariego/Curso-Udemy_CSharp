@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\bin\Debug\net6.0\MethodLowerUpper.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\bin\Debug\net6.0\MethodLowerUpper.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\bin\Debug\net6.0\MethodLowerUpper.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\bin\Debug\net6.0\MethodLowerUpper.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\bin\Debug\net6.0\MethodLowerUpper.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\refint\MethodLowerUpper.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\MethodLowerUpper.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\MethodLowerUpper\obj\Debug\net6.0\ref\MethodLowerUpper.dll

@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethods", "StringMeth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants", "Constants\Constants.csproj", "{380D5837-F440-4522-9984-E0A2B1E542D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMethods", "CreateMethods\CreateMethods.csproj", "{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{380D5837-F440-4522-9984-E0A2B1E542D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380D5837-F440-4522-9984-E0A2B1E542D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380D5837-F440-4522-9984-E0A2B1E542D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211EB8E2-DD9F-4E45-86A3-F00F6157C82B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
