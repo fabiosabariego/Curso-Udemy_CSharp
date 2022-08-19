@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\bin\Debug\net6.0\Ex07_ifElseCondition.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\bin\Debug\net6.0\Ex07_ifElseCondition.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\bin\Debug\net6.0\Ex07_ifElseCondition.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\bin\Debug\net6.0\Ex07_ifElseCondition.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\bin\Debug\net6.0\Ex07_ifElseCondition.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\refint\Ex07_ifElseCondition.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\Ex07_ifElseCondition.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex07_ifElseCondition\obj\Debug\net6.0\ref\Ex07_ifElseCondition.dll

@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04_DataType", "Ex04_DataT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_Methods", "Ex05_Methods\Ex05_Methods.csproj", "{0A76D76A-521A-41D0-ABC6-9584FC9F4811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodLowerUpper", "MethodLowerUpper\MethodLowerUpper.csproj", "{2B71A501-14F6-4771-8E45-BDFDEF6FBD97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06_MethodLowerUpper", "MethodLowerUpper\Ex06_MethodLowerUpper.csproj", "{2B71A501-14F6-4771-8E45-BDFDEF6FBD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07_ifElseCondition", "Ex07_ifElseCondition\Ex07_ifElseCondition.csproj", "{827B8360-196B-4632-B112-6091AEB03A0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2B71A501-14F6-4771-8E45-BDFDEF6FBD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B71A501-14F6-4771-8E45-BDFDEF6FBD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B71A501-14F6-4771-8E45-BDFDEF6FBD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827B8360-196B-4632-B112-6091AEB03A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827B8360-196B-4632-B112-6091AEB03A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827B8360-196B-4632-B112-6091AEB03A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827B8360-196B-4632-B112-6091AEB03A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

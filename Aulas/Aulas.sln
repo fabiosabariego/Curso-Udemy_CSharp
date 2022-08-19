@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMethods", "CreateMeth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{1376046C-1B67-4477-80E6-BB47F95F51BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifCondicion", "ifCondicion\ifCondicion.csproj", "{D90A129C-DE3F-44EC-AFBE-77A8BE57DB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{981C1AF7-CF1E-49E7-A767-B9A5E0B1B0B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1376046C-1B67-4477-80E6-BB47F95F51BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90A129C-DE3F-44EC-AFBE-77A8BE57DB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90A129C-DE3F-44EC-AFBE-77A8BE57DB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90A129C-DE3F-44EC-AFBE-77A8BE57DB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90A129C-DE3F-44EC-AFBE-77A8BE57DB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981C1AF7-CF1E-49E7-A767-B9A5E0B1B0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981C1AF7-CF1E-49E7-A767-B9A5E0B1B0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981C1AF7-CF1E-49E7-A767-B9A5E0B1B0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981C1AF7-CF1E-49E7-A767-B9A5E0B1B0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

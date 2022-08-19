@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\MethodLowerUpper\\MethodLowerUpper.csproj",
-      "projectName": "MethodLowerUpper",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\MethodLowerUpper\\MethodLowerUpper.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\MethodLowerUpper\\Ex06_MethodLowerUpper.csproj",
+      "projectName": "Ex06_MethodLowerUpper",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\MethodLowerUpper\\Ex06_MethodLowerUpper.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\MethodLowerUpper\\obj\\",
       "projectStyle": "PackageReference",
