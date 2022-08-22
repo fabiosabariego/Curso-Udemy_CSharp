@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09_NestedIfStatement", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogin", "UserLogin\UserLogin.csproj", "{23A7EA19-B032-4CC6-B7A3-8A85E2515623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Score_HighScore", "Score_HighScore\Score_HighScore.csproj", "{DBD50E18-7113-455B-B826-DF972675BDE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{23A7EA19-B032-4CC6-B7A3-8A85E2515623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A7EA19-B032-4CC6-B7A3-8A85E2515623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A7EA19-B032-4CC6-B7A3-8A85E2515623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD50E18-7113-455B-B826-DF972675BDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD50E18-7113-455B-B826-DF972675BDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD50E18-7113-455B-B826-DF972675BDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD50E18-7113-455B-B826-DF972675BDE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

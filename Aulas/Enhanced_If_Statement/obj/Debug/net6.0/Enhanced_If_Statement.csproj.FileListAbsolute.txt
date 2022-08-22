@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\bin\Debug\net6.0\Enhanced_If_Statement.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\bin\Debug\net6.0\Enhanced_If_Statement.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\bin\Debug\net6.0\Enhanced_If_Statement.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\bin\Debug\net6.0\Enhanced_If_Statement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\bin\Debug\net6.0\Enhanced_If_Statement.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\refint\Enhanced_If_Statement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\Enhanced_If_Statement.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Enhanced_If_Statement\obj\Debug\net6.0\ref\Enhanced_If_Statement.dll
