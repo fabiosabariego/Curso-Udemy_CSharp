@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\bin\Debug\net6.0\Ex09_NestedIfStatement.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\bin\Debug\net6.0\Ex09_NestedIfStatement.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\bin\Debug\net6.0\Ex09_NestedIfStatement.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\bin\Debug\net6.0\Ex09_NestedIfStatement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\bin\Debug\net6.0\Ex09_NestedIfStatement.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\refint\Ex09_NestedIfStatement.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\Ex09_NestedIfStatement.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex09_NestedIfStatement\obj\Debug\net6.0\ref\Ex09_NestedIfStatement.dll
