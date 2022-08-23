@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\bin\Debug\net6.0\Ex14_ForWhile_ToCount.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\bin\Debug\net6.0\Ex14_ForWhile_ToCount.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\bin\Debug\net6.0\Ex14_ForWhile_ToCount.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\bin\Debug\net6.0\Ex14_ForWhile_ToCount.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\bin\Debug\net6.0\Ex14_ForWhile_ToCount.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\refint\Ex14_ForWhile_ToCount.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\Ex14_ForWhile_ToCount.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex14_ForWhile_ToCount\obj\Debug\net6.0\ref\Ex14_ForWhile_ToCount.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\bin\Debug\net6.0\Ex13_WhilePeopleCounter.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\bin\Debug\net6.0\Ex13_WhilePeopleCounter.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\bin\Debug\net6.0\Ex13_WhilePeopleCounter.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\bin\Debug\net6.0\Ex13_WhilePeopleCounter.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\bin\Debug\net6.0\Ex13_WhilePeopleCounter.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\refint\Ex13_WhilePeopleCounter.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\Ex13_WhilePeopleCounter.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex13_WhilePeopleCounter\obj\Debug\net6.0\ref\Ex13_WhilePeopleCounter.dll

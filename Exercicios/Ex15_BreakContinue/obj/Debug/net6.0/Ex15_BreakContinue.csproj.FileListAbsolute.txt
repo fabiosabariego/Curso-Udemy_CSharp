@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\bin\Debug\net6.0\Ex15_BreakContinue.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\bin\Debug\net6.0\Ex15_BreakContinue.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\bin\Debug\net6.0\Ex15_BreakContinue.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\bin\Debug\net6.0\Ex15_BreakContinue.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\bin\Debug\net6.0\Ex15_BreakContinue.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\refint\Ex15_BreakContinue.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\Ex15_BreakContinue.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex15_BreakContinue\obj\Debug\net6.0\ref\Ex15_BreakContinue.dll

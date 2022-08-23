@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\bin\Debug\net6.0\DoWhileLoop.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\bin\Debug\net6.0\DoWhileLoop.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\bin\Debug\net6.0\DoWhileLoop.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\bin\Debug\net6.0\DoWhileLoop.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\bin\Debug\net6.0\DoWhileLoop.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\refint\DoWhileLoop.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\DoWhileLoop.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DoWhileLoop\obj\Debug\net6.0\ref\DoWhileLoop.dll
