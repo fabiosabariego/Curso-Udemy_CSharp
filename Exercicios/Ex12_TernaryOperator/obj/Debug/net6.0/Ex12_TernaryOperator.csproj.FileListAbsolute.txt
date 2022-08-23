@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\bin\Debug\net6.0\Ex12_TernaryOperator.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\bin\Debug\net6.0\Ex12_TernaryOperator.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\bin\Debug\net6.0\Ex12_TernaryOperator.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\bin\Debug\net6.0\Ex12_TernaryOperator.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\bin\Debug\net6.0\Ex12_TernaryOperator.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\refint\Ex12_TernaryOperator.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\Ex12_TernaryOperator.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex12_TernaryOperator\obj\Debug\net6.0\ref\Ex12_TernaryOperator.dll

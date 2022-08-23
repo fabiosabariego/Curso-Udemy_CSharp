@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex12_TernaryOperator/1.0.0": {
+        "runtime": {
+          "Ex12_TernaryOperator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex12_TernaryOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

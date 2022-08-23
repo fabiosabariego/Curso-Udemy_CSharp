@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Score_HighScore\\Ex10_Score_HighScore.csproj",
-      "projectName": "Ex10_Score_HighScore",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Score_HighScore\\Ex10_Score_HighScore.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex12_TernaryOperator\\Ex12_TernaryOperator.csproj",
+      "projectName": "Ex12_TernaryOperator",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex12_TernaryOperator\\Ex12_TernaryOperator.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Score_HighScore\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex12_TernaryOperator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\UserLogin\\UserLogin.csproj",
-      "projectName": "UserLogin",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\UserLogin\\UserLogin.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\UserLogin\\Ex11_UserLogin.csproj",
+      "projectName": "Ex11_UserLogin",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\UserLogin\\Ex11_UserLogin.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\UserLogin\\obj\\",
       "projectStyle": "PackageReference",
