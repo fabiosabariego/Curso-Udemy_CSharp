@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\bin\Debug\net6.0\Ex16_NotasAlunos.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\bin\Debug\net6.0\Ex16_NotasAlunos.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\bin\Debug\net6.0\Ex16_NotasAlunos.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\bin\Debug\net6.0\Ex16_NotasAlunos.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\bin\Debug\net6.0\Ex16_NotasAlunos.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\refint\Ex16_NotasAlunos.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\Ex16_NotasAlunos.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex16_NotasAlunos\obj\Debug\net6.0\ref\Ex16_NotasAlunos.dll

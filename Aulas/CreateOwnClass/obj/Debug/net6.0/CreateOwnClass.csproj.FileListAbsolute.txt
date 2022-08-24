@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\bin\Debug\net6.0\CreateOwnClass.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\bin\Debug\net6.0\CreateOwnClass.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\bin\Debug\net6.0\CreateOwnClass.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\bin\Debug\net6.0\CreateOwnClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\bin\Debug\net6.0\CreateOwnClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\refint\CreateOwnClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\CreateOwnClass.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\CreateOwnClass\obj\Debug\net6.0\ref\CreateOwnClass.dll

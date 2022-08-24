@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex14_ForWhile_ToCount", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15_BreakContinue", "Ex15_BreakContinue\Ex15_BreakContinue.csproj", "{FC22CCB1-E867-4ABB-874B-E07430B7B43B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex16_NotasAlunos", "Ex16_NotasAlunos\Ex16_NotasAlunos.csproj", "{68CEC539-218D-4DB3-B23F-45C2E3F61963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{FC22CCB1-E867-4ABB-874B-E07430B7B43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC22CCB1-E867-4ABB-874B-E07430B7B43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC22CCB1-E867-4ABB-874B-E07430B7B43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CEC539-218D-4DB3-B23F-45C2E3F61963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CEC539-218D-4DB3-B23F-45C2E3F61963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CEC539-218D-4DB3-B23F-45C2E3F61963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CEC539-218D-4DB3-B23F-45C2E3F61963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
