@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\bin\Debug\net6.0\EX17_ClassesPhone.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\bin\Debug\net6.0\EX17_ClassesPhone.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\bin\Debug\net6.0\EX17_ClassesPhone.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\bin\Debug\net6.0\EX17_ClassesPhone.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\bin\Debug\net6.0\EX17_ClassesPhone.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\refint\EX17_ClassesPhone.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\EX17_ClassesPhone.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\EX17_ClassesPhone\obj\Debug\net6.0\ref\EX17_ClassesPhone.dll
