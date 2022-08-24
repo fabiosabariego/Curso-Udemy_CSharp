@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\bin\Debug\net6.0\ClassProperties_Pt1.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\bin\Debug\net6.0\ClassProperties_Pt1.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\bin\Debug\net6.0\ClassProperties_Pt1.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\bin\Debug\net6.0\ClassProperties_Pt1.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\bin\Debug\net6.0\ClassProperties_Pt1.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\refint\ClassProperties_Pt1.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ClassProperties_Pt1.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ClassProperties_Pt1\obj\Debug\net6.0\ref\ClassProperties_Pt1.dll

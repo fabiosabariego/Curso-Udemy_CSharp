@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateOwnClass", "CreateOwnClass\CreateOwnClass.csproj", "{A73227DA-27BA-4A39-9C41-CF4D12D5E269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassProperties_Pt1", "ClassProperties_Pt1\ClassProperties_Pt1.csproj", "{3DA7E1A3-4C1B-4FA1-B804-D613352C8EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMembers", "ClassMembers\ClassMembers.csproj", "{257D6432-0B5D-4420-A391-6CA59BCA3B90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{A73227DA-27BA-4A39-9C41-CF4D12D5E269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A73227DA-27BA-4A39-9C41-CF4D12D5E269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A73227DA-27BA-4A39-9C41-CF4D12D5E269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA7E1A3-4C1B-4FA1-B804-D613352C8EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA7E1A3-4C1B-4FA1-B804-D613352C8EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA7E1A3-4C1B-4FA1-B804-D613352C8EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA7E1A3-4C1B-4FA1-B804-D613352C8EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257D6432-0B5D-4420-A391-6CA59BCA3B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257D6432-0B5D-4420-A391-6CA59BCA3B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257D6432-0B5D-4420-A391-6CA59BCA3B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257D6432-0B5D-4420-A391-6CA59BCA3B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
