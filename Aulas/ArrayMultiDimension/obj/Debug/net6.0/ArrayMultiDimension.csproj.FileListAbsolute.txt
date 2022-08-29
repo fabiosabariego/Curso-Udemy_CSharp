@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\bin\Debug\net6.0\ArrayMultiDimension.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\bin\Debug\net6.0\ArrayMultiDimension.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\bin\Debug\net6.0\ArrayMultiDimension.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\bin\Debug\net6.0\ArrayMultiDimension.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\bin\Debug\net6.0\ArrayMultiDimension.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\refint\ArrayMultiDimension.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ArrayMultiDimension.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ArrayMultiDimension\obj\Debug\net6.0\ref\ArrayMultiDimension.dll

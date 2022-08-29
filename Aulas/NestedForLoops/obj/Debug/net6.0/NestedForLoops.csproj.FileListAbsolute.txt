@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\bin\Debug\net6.0\NestedForLoops.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\bin\Debug\net6.0\NestedForLoops.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\bin\Debug\net6.0\NestedForLoops.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\bin\Debug\net6.0\NestedForLoops.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\bin\Debug\net6.0\NestedForLoops.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\refint\NestedForLoops.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\NestedForLoops.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\NestedForLoops\obj\Debug\net6.0\ref\NestedForLoops.dll
