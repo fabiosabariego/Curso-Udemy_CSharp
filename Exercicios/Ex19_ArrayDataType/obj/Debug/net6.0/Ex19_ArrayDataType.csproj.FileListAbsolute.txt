@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\bin\Debug\net6.0\Ex19_ArrayDataType.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\bin\Debug\net6.0\Ex19_ArrayDataType.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\bin\Debug\net6.0\Ex19_ArrayDataType.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\bin\Debug\net6.0\Ex19_ArrayDataType.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\bin\Debug\net6.0\Ex19_ArrayDataType.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\refint\Ex19_ArrayDataType.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\Ex19_ArrayDataType.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex19_ArrayDataType\obj\Debug\net6.0\ref\Ex19_ArrayDataType.dll

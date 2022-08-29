@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\bin\Debug\net6.0\Ex18_Arrays.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\bin\Debug\net6.0\Ex18_Arrays.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\bin\Debug\net6.0\Ex18_Arrays.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\bin\Debug\net6.0\Ex18_Arrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\bin\Debug\net6.0\Ex18_Arrays.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\refint\Ex18_Arrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\Ex18_Arrays.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex18_Arrays\obj\Debug\net6.0\ref\Ex18_Arrays.dll

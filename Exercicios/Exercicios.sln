@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex16_NotasAlunos", "Ex16_No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX17_ClassesPhone", "EX17_ClassesPhone\EX17_ClassesPhone.csproj", "{7926046D-3DB0-4750-9D54-DBE94F888FB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex18_Arrays", "Ex18_Arrays\Ex18_Arrays.csproj", "{3C9FEF23-9A34-4405-A305-209364EC7778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex19_ArrayDataType", "Ex19_ArrayDataType\Ex19_ArrayDataType.csproj", "{A0E601E0-2D10-4E0A-829D-A71275478BC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{7926046D-3DB0-4750-9D54-DBE94F888FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7926046D-3DB0-4750-9D54-DBE94F888FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7926046D-3DB0-4750-9D54-DBE94F888FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9FEF23-9A34-4405-A305-209364EC7778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9FEF23-9A34-4405-A305-209364EC7778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9FEF23-9A34-4405-A305-209364EC7778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9FEF23-9A34-4405-A305-209364EC7778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
