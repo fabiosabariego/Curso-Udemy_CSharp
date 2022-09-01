@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex20_NestedLoop_OddNumb/1.0.0": {
+        "runtime": {
+          "Ex20_NestedLoop_OddNumb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex20_NestedLoop_OddNumb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\bin\Debug\net6.0\Ex21_TicTacToe.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\bin\Debug\net6.0\Ex21_TicTacToe.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\bin\Debug\net6.0\Ex21_TicTacToe.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\bin\Debug\net6.0\Ex21_TicTacToe.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\bin\Debug\net6.0\Ex21_TicTacToe.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\refint\Ex21_TicTacToe.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\Ex21_TicTacToe.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex21_TicTacToe\obj\Debug\net6.0\ref\Ex21_TicTacToe.dll

@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex18_Arrays", "Ex18_Arrays\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex19_ArrayDataType", "Ex19_ArrayDataType\Ex19_ArrayDataType.csproj", "{A0E601E0-2D10-4E0A-829D-A71275478BC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex20_NestedLoop_EvenNumb", "Ex20_NestedLoop_OddNumb\Ex20_NestedLoop_EvenNumb.csproj", "{3C4B3B61-F3C7-4552-A95C-9EEE5E657E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex21_TicTacToe", "Ex21_TicTacToe\Ex21_TicTacToe.csproj", "{AC5DF99E-D4E6-429E-90AF-5F0F6A77D62A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E601E0-2D10-4E0A-829D-A71275478BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4B3B61-F3C7-4552-A95C-9EEE5E657E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4B3B61-F3C7-4552-A95C-9EEE5E657E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4B3B61-F3C7-4552-A95C-9EEE5E657E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4B3B61-F3C7-4552-A95C-9EEE5E657E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5DF99E-D4E6-429E-90AF-5F0F6A77D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5DF99E-D4E6-429E-90AF-5F0F6A77D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5DF99E-D4E6-429E-90AF-5F0F6A77D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5DF99E-D4E6-429E-90AF-5F0F6A77D62A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

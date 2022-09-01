@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\bin\Debug\net6.0\Ex20_NestedLoop_OddNumb.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\bin\Debug\net6.0\Ex20_NestedLoop_OddNumb.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\bin\Debug\net6.0\Ex20_NestedLoop_OddNumb.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\bin\Debug\net6.0\Ex20_NestedLoop_OddNumb.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\bin\Debug\net6.0\Ex20_NestedLoop_OddNumb.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\refint\Ex20_NestedLoop_OddNumb.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\Ex20_NestedLoop_OddNumb.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex20_NestedLoop_OddNumb\obj\Debug\net6.0\ref\Ex20_NestedLoop_OddNumb.dll
