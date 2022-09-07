@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex21_TicTacToe\\Ex21_TicTacToe_Status.csproj",
-      "projectName": "Ex21_TicTacToe_Status",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex21_TicTacToe\\Ex21_TicTacToe_Status.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex22_TicTacToe_Completo\\Ex22_TicTacToe_Completo.csproj",
+      "projectName": "Ex22_TicTacToe_Completo",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex22_TicTacToe_Completo\\Ex22_TicTacToe_Completo.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex21_TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\Documents\\Aulas C#\\CursoUdemy\\Curso-Udemy_CSharp\\Exercicios\\Ex22_TicTacToe_Completo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

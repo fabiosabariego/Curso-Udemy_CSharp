@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\bin\Debug\net6.0\Ex22_TicTacToe_Completo.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\bin\Debug\net6.0\Ex22_TicTacToe_Completo.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\bin\Debug\net6.0\Ex22_TicTacToe_Completo.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\bin\Debug\net6.0\Ex22_TicTacToe_Completo.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\bin\Debug\net6.0\Ex22_TicTacToe_Completo.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\refint\Ex22_TicTacToe_Completo.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\Ex22_TicTacToe_Completo.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex22_TicTacToe_Completo\obj\Debug\net6.0\ref\Ex22_TicTacToe_Completo.dll
