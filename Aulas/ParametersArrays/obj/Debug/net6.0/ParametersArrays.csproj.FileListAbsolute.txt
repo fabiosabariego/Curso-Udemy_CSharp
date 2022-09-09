@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\bin\Debug\net6.0\ParametersArrays.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\bin\Debug\net6.0\ParametersArrays.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\bin\Debug\net6.0\ParametersArrays.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\bin\Debug\net6.0\ParametersArrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\bin\Debug\net6.0\ParametersArrays.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\refint\ParametersArrays.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ParametersArrays.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersArrays\obj\Debug\net6.0\ref\ParametersArrays.dll

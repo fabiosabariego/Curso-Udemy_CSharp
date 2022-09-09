@@ -47,6 +47,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex21_TicTacToe_Status", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex22_TicTacToe_Completo", "Ex22_TicTacToe_Completo\Ex22_TicTacToe_Completo.csproj", "{5C324AA6-3008-4EBC-8DD5-2CA33EAEDB77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex23_JaggedArray", "Ex23_JaggedArray\Ex23_JaggedArray.csproj", "{3AB39F76-22A2-4782-B74C-B343CE2EF452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex24_ParamArray", "Ex24_ParamArray\Ex24_ParamArray.csproj", "{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{5C324AA6-3008-4EBC-8DD5-2CA33EAEDB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C324AA6-3008-4EBC-8DD5-2CA33EAEDB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C324AA6-3008-4EBC-8DD5-2CA33EAEDB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB39F76-22A2-4782-B74C-B343CE2EF452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB39F76-22A2-4782-B74C-B343CE2EF452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB39F76-22A2-4782-B74C-B343CE2EF452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB39F76-22A2-4782-B74C-B343CE2EF452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
