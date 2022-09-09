@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\bin\Debug\net6.0\ParametersKeyword.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\bin\Debug\net6.0\ParametersKeyword.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\bin\Debug\net6.0\ParametersKeyword.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\bin\Debug\net6.0\ParametersKeyword.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\bin\Debug\net6.0\ParametersKeyword.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\refint\ParametersKeyword.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ParametersKeyword.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\ParametersKeyword\obj\Debug\net6.0\ref\ParametersKeyword.dll

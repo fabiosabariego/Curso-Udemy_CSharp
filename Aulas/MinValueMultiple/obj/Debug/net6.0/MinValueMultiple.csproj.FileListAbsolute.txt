@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\bin\Debug\net6.0\MinValueMultiple.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\bin\Debug\net6.0\MinValueMultiple.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\bin\Debug\net6.0\MinValueMultiple.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\bin\Debug\net6.0\MinValueMultiple.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\bin\Debug\net6.0\MinValueMultiple.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\refint\MinValueMultiple.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\MinValueMultiple.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MinValueMultiple\obj\Debug\net6.0\ref\MinValueMultiple.dll

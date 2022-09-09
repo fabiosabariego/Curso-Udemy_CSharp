@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray", "JaggedArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersArrays", "ParametersArrays\ParametersArrays.csproj", "{67F584FA-115F-416E-BDCC-C4EE70CAEEE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersKeyword", "ParametersKeyword\ParametersKeyword.csproj", "{F4205CBE-5974-4190-B60E-46C147ECAB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinValueMultiple", "MinValueMultiple\MinValueMultiple.csproj", "{B5025423-EC50-4E20-A1A3-2F6AF93FD1FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{67F584FA-115F-416E-BDCC-C4EE70CAEEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F584FA-115F-416E-BDCC-C4EE70CAEEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F584FA-115F-416E-BDCC-C4EE70CAEEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4205CBE-5974-4190-B60E-46C147ECAB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4205CBE-5974-4190-B60E-46C147ECAB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4205CBE-5974-4190-B60E-46C147ECAB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4205CBE-5974-4190-B60E-46C147ECAB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5025423-EC50-4E20-A1A3-2F6AF93FD1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5025423-EC50-4E20-A1A3-2F6AF93FD1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5025423-EC50-4E20-A1A3-2F6AF93FD1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5025423-EC50-4E20-A1A3-2F6AF93FD1FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

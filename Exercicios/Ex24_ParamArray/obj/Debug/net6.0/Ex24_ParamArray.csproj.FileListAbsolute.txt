@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\bin\Debug\net6.0\Ex24_ParamArray.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\bin\Debug\net6.0\Ex24_ParamArray.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\bin\Debug\net6.0\Ex24_ParamArray.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\bin\Debug\net6.0\Ex24_ParamArray.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\bin\Debug\net6.0\Ex24_ParamArray.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\refint\Ex24_ParamArray.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\Ex24_ParamArray.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex24_ParamArray\obj\Debug\net6.0\ref\Ex24_ParamArray.dll
