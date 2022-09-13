@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\bin\Debug\net6.0\Collections_Generic.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\bin\Debug\net6.0\Collections_Generic.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\bin\Debug\net6.0\Collections_Generic.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\bin\Debug\net6.0\Collections_Generic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\bin\Debug\net6.0\Collections_Generic.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\refint\Collections_Generic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\Collections_Generic.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Collections_Generic\obj\Debug\net6.0\ref\Collections_Generic.dll

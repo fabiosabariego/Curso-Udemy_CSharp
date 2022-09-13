@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\bin\Debug\net6.0\HashTables.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\bin\Debug\net6.0\HashTables.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\bin\Debug\net6.0\HashTables.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\bin\Debug\net6.0\HashTables.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\bin\Debug\net6.0\HashTables.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\refint\HashTables.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\HashTables.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\HashTables\obj\Debug\net6.0\ref\HashTables.dll

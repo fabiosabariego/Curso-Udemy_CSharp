@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex23_JaggedArray", "Ex23_Ja
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex24_ParamArray", "Ex24_ParamArray\Ex24_ParamArray.csproj", "{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex25_ListCollection", "Ex25_ListCollection\Ex25_ListCollection.csproj", "{C3426763-F9FD-4EDD-9B33-3DC3F8FBEB50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF7A7CD-1388-47D2-B9D3-3938D1A84594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3426763-F9FD-4EDD-9B33-3DC3F8FBEB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3426763-F9FD-4EDD-9B33-3DC3F8FBEB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3426763-F9FD-4EDD-9B33-3DC3F8FBEB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3426763-F9FD-4EDD-9B33-3DC3F8FBEB50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

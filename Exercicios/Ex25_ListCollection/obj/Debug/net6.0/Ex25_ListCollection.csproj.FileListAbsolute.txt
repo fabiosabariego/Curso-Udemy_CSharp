@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\bin\Debug\net6.0\Ex25_ListCollection.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\bin\Debug\net6.0\Ex25_ListCollection.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\bin\Debug\net6.0\Ex25_ListCollection.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\bin\Debug\net6.0\Ex25_ListCollection.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\bin\Debug\net6.0\Ex25_ListCollection.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\refint\Ex25_ListCollection.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\Ex25_ListCollection.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex25_ListCollection\obj\Debug\net6.0\ref\Ex25_ListCollection.dll
