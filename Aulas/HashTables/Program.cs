@@ -19,10 +19,31 @@ namespace HashTables
             studentsTable.Add(stud3.Id, stud3);
             studentsTable.Add(stud4.Id, stud4);
 
+            // retrive individual item with know ID
             Student storedStudent1 = (Student)studentsTable[1];
 
+            // retrive all values from Hashtable
+            foreach (DictionaryEntry entry in studentsTable)
+            {
+                Student temp = (Student)entry.Value;
+                Console.WriteLine($"Sutent ID: {temp.Id}");
+                Console.WriteLine($"Sutent Name: {temp.Name}");
+                Console.WriteLine($"Sutent GPA: {temp.GPA}");
+                Console.WriteLine("");
+            }
+            Console.WriteLine("");
 
-            Console.WriteLine($"Student ID: {storedStudent1.Id} / Name: {storedStudent1.Name} / GPA: {storedStudent1.GPA}");
+
+            foreach (Student value in studentsTable.Values)
+            {
+                Console.WriteLine($"Sutent ID: {value.Id}");
+                Console.WriteLine($"Sutent Name: {value.Name}");
+                Console.WriteLine($"Sutent GPA: {value.GPA}");
+                Console.WriteLine("");
+            }
+
+
+            //Console.WriteLine($"Student ID: {storedStudent1.Id} / Name: {storedStudent1.Name} / GPA: {storedStudent1.GPA}");
 
         }
 
