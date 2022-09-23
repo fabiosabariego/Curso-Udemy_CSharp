@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex25_ListCollection", "Ex25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex26_Hashtables", "Ex26_Hashtables\Ex26_Hashtables.csproj", "{B6A6D747-7734-431A-B3B4-D25E40309684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex27_Dictionary", "Ex27_Dictionary\Ex27_Dictionary.csproj", "{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{B6A6D747-7734-431A-B3B4-D25E40309684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A6D747-7734-431A-B3B4-D25E40309684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A6D747-7734-431A-B3B4-D25E40309684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

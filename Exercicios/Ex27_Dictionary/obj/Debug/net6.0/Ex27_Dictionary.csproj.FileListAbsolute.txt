@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\bin\Debug\net6.0\Ex27_Dictionary.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\bin\Debug\net6.0\Ex27_Dictionary.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\bin\Debug\net6.0\Ex27_Dictionary.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\bin\Debug\net6.0\Ex27_Dictionary.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\bin\Debug\net6.0\Ex27_Dictionary.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\refint\Ex27_Dictionary.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\Ex27_Dictionary.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex27_Dictionary\obj\Debug\net6.0\ref\Ex27_Dictionary.dll
