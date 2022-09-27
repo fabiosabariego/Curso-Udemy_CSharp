@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksQueues", "StacksQueues\StacksQueues.csproj", "{C202B4CE-510F-4601-AC24-7339F22EF824}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{5B29B45A-1F18-47A1-B57B-BFCF5581C380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{C202B4CE-510F-4601-AC24-7339F22EF824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C202B4CE-510F-4601-AC24-7339F22EF824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C202B4CE-510F-4601-AC24-7339F22EF824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B29B45A-1F18-47A1-B57B-BFCF5581C380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B29B45A-1F18-47A1-B57B-BFCF5581C380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B29B45A-1F18-47A1-B57B-BFCF5581C380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B29B45A-1F18-47A1-B57B-BFCF5581C380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
