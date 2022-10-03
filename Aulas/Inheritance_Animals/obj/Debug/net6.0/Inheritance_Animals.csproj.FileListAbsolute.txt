@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\bin\Debug\net6.0\Inheritance_Animals.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\bin\Debug\net6.0\Inheritance_Animals.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\bin\Debug\net6.0\Inheritance_Animals.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\bin\Debug\net6.0\Inheritance_Animals.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\bin\Debug\net6.0\Inheritance_Animals.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\refint\Inheritance_Animals.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\Inheritance_Animals.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Inheritance_Animals\obj\Debug\net6.0\ref\Inheritance_Animals.dll
