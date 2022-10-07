@@ -18,7 +18,7 @@ namespace InheritancePost
         public ImagePost(string title, string sendByUsername, string imageURL, bool isPublic)
         {
             // Todos parametros abaixo sao da Classe Post
-            this.ID = GetNextID();      // Pega direto da Classe Mae, tando o ID quandto GetNextID()
+            this.ID = GetNextID();      // Pega direto da Classe Mae, tando o ID quanto GetNextID()
             this.Title = title;
             this.SendByUserName = sendByUsername;
             this.IsPublic = isPublic;

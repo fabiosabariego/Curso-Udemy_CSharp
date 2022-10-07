@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\bin\Debug\net6.0\Ex28_InheritanceVideoPost.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\bin\Debug\net6.0\Ex28_InheritanceVideoPost.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\bin\Debug\net6.0\Ex28_InheritanceVideoPost.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\bin\Debug\net6.0\Ex28_InheritanceVideoPost.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\bin\Debug\net6.0\Ex28_InheritanceVideoPost.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\refint\Ex28_InheritanceVideoPost.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\Ex28_InheritanceVideoPost.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex28_InheritanceVideoPost\obj\Debug\net6.0\ref\Ex28_InheritanceVideoPost.dll

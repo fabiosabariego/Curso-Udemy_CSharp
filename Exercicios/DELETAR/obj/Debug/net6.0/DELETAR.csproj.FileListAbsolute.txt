@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\bin\Debug\net6.0\DELETAR.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\bin\Debug\net6.0\DELETAR.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\bin\Debug\net6.0\DELETAR.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\bin\Debug\net6.0\DELETAR.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\bin\Debug\net6.0\DELETAR.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\refint\DELETAR.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\DELETAR.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\DELETAR\obj\Debug\net6.0\ref\DELETAR.dll
