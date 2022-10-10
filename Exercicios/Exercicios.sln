@@ -59,7 +59,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex27_Dictionary", "Ex27_Dic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex28_InheritanceVideoPost", "Ex28_InheritanceVideoPost\Ex28_InheritanceVideoPost.csproj", "{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELETAR", "DELETAR\DELETAR.csproj", "{4982DB5A-68DC-4D27-9DC6-8B40F1E83187}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex29_InheritanceBoss", "Ex29_InheritanceBoss\Ex29_InheritanceBoss.csproj", "{245382A4-5D87-4022-961D-C9D0DC231DC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -179,10 +179,10 @@ Global
 		{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4982DB5A-68DC-4D27-9DC6-8B40F1E83187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4982DB5A-68DC-4D27-9DC6-8B40F1E83187}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4982DB5A-68DC-4D27-9DC6-8B40F1E83187}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4982DB5A-68DC-4D27-9DC6-8B40F1E83187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

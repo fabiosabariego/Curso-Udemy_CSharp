@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\bin\Debug\net6.0\Ex29_InheritanceBoss.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\bin\Debug\net6.0\Ex29_InheritanceBoss.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\bin\Debug\net6.0\Ex29_InheritanceBoss.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\bin\Debug\net6.0\Ex29_InheritanceBoss.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\bin\Debug\net6.0\Ex29_InheritanceBoss.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\refint\Ex29_InheritanceBoss.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\Ex29_InheritanceBoss.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex29_InheritanceBoss\obj\Debug\net6.0\ref\Ex29_InheritanceBoss.dll
