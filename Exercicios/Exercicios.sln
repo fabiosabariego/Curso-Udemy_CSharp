@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex28_InheritanceVideoPost",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex29_InheritanceBoss", "Ex29_InheritanceBoss\Ex29_InheritanceBoss.csproj", "{245382A4-5D87-4022-961D-C9D0DC231DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex30_Interfaces", "Ex30_Interfaces\Ex30_Interfaces.csproj", "{50F84622-5216-4F29-9B8F-8132FB36FDC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245382A4-5D87-4022-961D-C9D0DC231DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F84622-5216-4F29-9B8F-8132FB36FDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F84622-5216-4F29-9B8F-8132FB36FDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F84622-5216-4F29-9B8F-8132FB36FDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F84622-5216-4F29-9B8F-8132FB36FDC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Animals", "Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePost", "InheritancePost\InheritancePost.csproj", "{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D990DE9B-7228-42C9-A375-DFEC550F4BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D990DE9B-7228-42C9-A375-DFEC550F4BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D990DE9B-7228-42C9-A375-DFEC550F4BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D990DE9B-7228-42C9-A375-DFEC550F4BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D990DE9B-7228-42C9-A375-DFEC550F4BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
