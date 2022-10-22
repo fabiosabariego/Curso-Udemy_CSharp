@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\bin\Debug\net6.0\Ex99_ExtraInterface.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\bin\Debug\net6.0\Ex99_ExtraInterface.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\bin\Debug\net6.0\Ex99_ExtraInterface.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\bin\Debug\net6.0\Ex99_ExtraInterface.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\bin\Debug\net6.0\Ex99_ExtraInterface.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\refint\Ex99_ExtraInterface.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\Ex99_ExtraInterface.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex99_ExtraInterface\obj\Debug\net6.0\ref\Ex99_ExtraInterface.dll
