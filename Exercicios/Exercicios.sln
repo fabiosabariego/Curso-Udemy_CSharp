@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex30_Interfaces", "Ex30_Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex99_ExtraInterface", "Ex99_ExtraInterface\Ex99_ExtraInterface.csproj", "{37E51E29-8FD7-48A8-B727-236F09384A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex31_IEnumerable", "Ex31_IEnumerable\Ex31_IEnumerable.csproj", "{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{37E51E29-8FD7-48A8-B727-236F09384A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E51E29-8FD7-48A8-B727-236F09384A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E51E29-8FD7-48A8-B727-236F09384A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

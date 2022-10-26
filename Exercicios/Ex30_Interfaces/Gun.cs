@@ -15,6 +15,15 @@ namespace Ex30_Interfaces
             name = Name;
         }
 
+        public void Lable()
+        {
+            Console.WriteLine("BANG!!!");
+        }
+
+        public void Shoot()
+        {
+
+        }
 
     }
 }

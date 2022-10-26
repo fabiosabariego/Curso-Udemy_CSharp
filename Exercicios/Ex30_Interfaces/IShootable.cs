@@ -8,7 +8,6 @@ namespace Ex30_Interfaces
 {
     internal interface IShootable
     {
-        public void Shoot();
+        void Shoot();
     }
-
 }
