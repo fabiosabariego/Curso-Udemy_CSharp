@@ -67,13 +67,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queues", "Queues\Queues.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4444C352-76DB-44CD-814D-7EF8E20BA345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Animals", "Inheritance_Animals\Inheritance_Animals.csproj", "{ECF7F4EF-F098-42DA-B5E7-FBC01D9F1650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance_Animals", "Inheritance_Animals\Inheritance_Animals.csproj", "{ECF7F4EF-F098-42DA-B5E7-FBC01D9F1650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePost", "InheritancePost\InheritancePost.csproj", "{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritancePost", "InheritancePost\InheritancePost.csproj", "{C9119671-DC67-4D1D-BFCD-BCB9081EB6E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D990DE9B-7228-42C9-A375-DFEC550F4BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D990DE9B-7228-42C9-A375-DFEC550F4BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnunerableEx01", "IEnunerableEx01\IEnunerableEx01.csproj", "{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnunerableEx01", "IEnunerableEx01\IEnunerableEx01.csproj", "{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism01", "Polymorphism01\Polymorphism01.csproj", "{4CE79114-B447-40E1-9880-F7AE75C494CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE79114-B447-40E1-9880-F7AE75C494CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE79114-B447-40E1-9880-F7AE75C494CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE79114-B447-40E1-9880-F7AE75C494CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE79114-B447-40E1-9880-F7AE75C494CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
