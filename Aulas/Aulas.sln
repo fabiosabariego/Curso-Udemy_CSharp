@@ -75,9 +75,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnunerableEx01", "IEnunerableEx01\IEnunerableEx01.csproj", "{D0785A8B-AE67-400F-BFDA-508AC9F5BEAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism01", "Polymorphism01\Polymorphism01.csproj", "{4CE79114-B447-40E1-9880-F7AE75C494CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism01", "Polymorphism01\Polymorphism01.csproj", "{4CE79114-B447-40E1-9880-F7AE75C494CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Abstract", "Polymorphism_Abstract\Polymorphism_Abstract.csproj", "{29623104-43F7-489D-B78D-0171646A2AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism_Abstract", "Polymorphism_Abstract\Polymorphism_Abstract.csproj", "{29623104-43F7-489D-B78D-0171646A2AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polym_ReadTextFile", "Polym_ReadTextFile\Polym_ReadTextFile.csproj", "{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polym_WriteTextFile", "Polym_WriteTextFile\Polym_WriteTextFile.csproj", "{3673335A-43E6-4E38-9A04-095114F2A864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +241,14 @@ Global
 		{29623104-43F7-489D-B78D-0171646A2AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29623104-43F7-489D-B78D-0171646A2AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29623104-43F7-489D-B78D-0171646A2AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3673335A-43E6-4E38-9A04-095114F2A864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3673335A-43E6-4E38-9A04-095114F2A864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3673335A-43E6-4E38-9A04-095114F2A864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3673335A-43E6-4E38-9A04-095114F2A864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

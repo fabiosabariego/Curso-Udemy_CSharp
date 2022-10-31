@@ -24,7 +24,7 @@ namespace Polymorphism_Abstract
         public override void GetInfo()
         {
             base.GetInfo();
-            Console.WriteLine($"The Sphere has a radius of {this.Radius} and Volume {Volume}");
+            Console.WriteLine($"The Sphere has a radius of {this.Radius} and Volume {Volume()}");
         }
     }
 }

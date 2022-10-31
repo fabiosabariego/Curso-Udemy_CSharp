@@ -25,7 +25,7 @@ namespace Polymorphism_Abstract
         public override void GetInfo()
         {
             base.GetInfo();     // Com isso ele ira executar o que esta na classe pai
-            Console.WriteLine($"The cube has a lenght of {this.Lenght} and Volume {Volume}");
+            Console.WriteLine($"The cube has a lenght of {this.Lenght} and Volume {Volume()}");
         }
     }
 }

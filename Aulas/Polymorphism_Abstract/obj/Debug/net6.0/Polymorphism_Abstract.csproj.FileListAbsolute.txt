@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\bin\Debug\net6.0\Polymorphism_Abstract.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\bin\Debug\net6.0\Polymorphism_Abstract.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\bin\Debug\net6.0\Polymorphism_Abstract.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\bin\Debug\net6.0\Polymorphism_Abstract.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\bin\Debug\net6.0\Polymorphism_Abstract.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\refint\Polymorphism_Abstract.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\Polymorphism_Abstract.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polymorphism_Abstract\obj\Debug\net6.0\ref\Polymorphism_Abstract.dll

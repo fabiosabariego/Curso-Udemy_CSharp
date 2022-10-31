@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\bin\Debug\net6.0\Polym_ReadTextFile.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\bin\Debug\net6.0\Polym_ReadTextFile.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\bin\Debug\net6.0\Polym_ReadTextFile.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\bin\Debug\net6.0\Polym_ReadTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\bin\Debug\net6.0\Polym_ReadTextFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\refint\Polym_ReadTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\Polym_ReadTextFile.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_ReadTextFile\obj\Debug\net6.0\ref\Polym_ReadTextFile.dll

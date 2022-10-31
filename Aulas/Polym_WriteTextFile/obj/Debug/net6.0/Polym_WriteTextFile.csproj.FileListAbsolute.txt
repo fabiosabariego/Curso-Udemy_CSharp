@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\bin\Debug\net6.0\Polym_WriteTextFile.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\bin\Debug\net6.0\Polym_WriteTextFile.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\bin\Debug\net6.0\Polym_WriteTextFile.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\bin\Debug\net6.0\Polym_WriteTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\bin\Debug\net6.0\Polym_WriteTextFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\refint\Polym_WriteTextFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\Polym_WriteTextFile.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Polym_WriteTextFile\obj\Debug\net6.0\ref\Polym_WriteTextFile.dll
