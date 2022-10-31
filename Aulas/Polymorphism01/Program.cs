@@ -20,6 +20,13 @@
             Car bmwZ3 = new BMW(200, "Blue", "Z3");
             Car audiA3 = new BMW(100, "Green", "A3");
 
+            //----------------------------- HAS A relationship
+            Console.WriteLine("");
+            bmwZ3.SetCarIDInfo(123, "Fabio");
+            audiA3.SetCarIDInfo(223, "Panjuta");
+            bmwZ3.GetCarInfo();
+            audiA3.GetCarInfo();
+
             Console.WriteLine("");
             bmwZ3.ShowDetails();
             Console.WriteLine("");
