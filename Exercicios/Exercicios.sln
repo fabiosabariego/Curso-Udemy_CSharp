@@ -57,15 +57,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex26_Hashtables", "Ex26_Has
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex27_Dictionary", "Ex27_Dictionary\Ex27_Dictionary.csproj", "{6A94B1E3-4C2A-4FD1-AE20-80956F539DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex28_InheritanceVideoPost", "Ex28_InheritanceVideoPost\Ex28_InheritanceVideoPost.csproj", "{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex28_InheritanceVideoPost", "Ex28_InheritanceVideoPost\Ex28_InheritanceVideoPost.csproj", "{53C22A11-5D2D-46D5-8E45-6723D73E6E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex29_InheritanceBoss", "Ex29_InheritanceBoss\Ex29_InheritanceBoss.csproj", "{245382A4-5D87-4022-961D-C9D0DC231DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex29_InheritanceBoss", "Ex29_InheritanceBoss\Ex29_InheritanceBoss.csproj", "{245382A4-5D87-4022-961D-C9D0DC231DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex30_Interfaces", "Ex30_Interfaces\Ex30_Interfaces.csproj", "{50F84622-5216-4F29-9B8F-8132FB36FDC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex30_Interfaces", "Ex30_Interfaces\Ex30_Interfaces.csproj", "{50F84622-5216-4F29-9B8F-8132FB36FDC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex99_ExtraInterface", "Ex99_ExtraInterface\Ex99_ExtraInterface.csproj", "{37E51E29-8FD7-48A8-B727-236F09384A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex99_ExtraInterface", "Ex99_ExtraInterface\Ex99_ExtraInterface.csproj", "{37E51E29-8FD7-48A8-B727-236F09384A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex31_IEnumerable", "Ex31_IEnumerable\Ex31_IEnumerable.csproj", "{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex31_IEnumerable", "Ex31_IEnumerable\Ex31_IEnumerable.csproj", "{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex32_ReadWriteFile", "Ex32_ReadWriteFile\Ex32_ReadWriteFile.csproj", "{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7639C56B-19FC-46ED-9DEA-BCDEE2CC5D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

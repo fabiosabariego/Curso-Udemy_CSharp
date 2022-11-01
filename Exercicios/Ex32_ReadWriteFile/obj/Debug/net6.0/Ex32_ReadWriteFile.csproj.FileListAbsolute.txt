@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\bin\Debug\net6.0\Ex32_ReadWriteFile.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\bin\Debug\net6.0\Ex32_ReadWriteFile.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\bin\Debug\net6.0\Ex32_ReadWriteFile.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\bin\Debug\net6.0\Ex32_ReadWriteFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\bin\Debug\net6.0\Ex32_ReadWriteFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\refint\Ex32_ReadWriteFile.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\Ex32_ReadWriteFile.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex32_ReadWriteFile\obj\Debug\net6.0\ref\Ex32_ReadWriteFile.dll
