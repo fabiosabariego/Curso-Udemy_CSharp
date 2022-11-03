@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\bin\Debug\net6.0\Struct.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\bin\Debug\net6.0\Struct.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Struct\obj\Debug\net6.0\ref\Struct.dll

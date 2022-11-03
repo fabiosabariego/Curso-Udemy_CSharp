@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex31_IEnumerable", "Ex31_IE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex32_ReadWriteFile", "Ex32_ReadWriteFile\Ex32_ReadWriteFile.csproj", "{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex33_MathClass", "Ex33_MathClass\Ex33_MathClass.csproj", "{80F00C50-326F-4EC6-AD0F-40268B8575D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3BE6DE-A3BE-495E-B605-77C7298ECAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

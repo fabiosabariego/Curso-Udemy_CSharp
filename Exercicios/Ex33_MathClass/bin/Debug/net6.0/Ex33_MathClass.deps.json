@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex33_MathClass/1.0.0": {
+        "runtime": {
+          "Ex33_MathClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex33_MathClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

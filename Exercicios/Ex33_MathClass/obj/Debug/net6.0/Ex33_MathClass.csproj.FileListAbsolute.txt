@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\bin\Debug\net6.0\Ex33_MathClass.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\bin\Debug\net6.0\Ex33_MathClass.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\bin\Debug\net6.0\Ex33_MathClass.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\bin\Debug\net6.0\Ex33_MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\bin\Debug\net6.0\Ex33_MathClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\refint\Ex33_MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\Ex33_MathClass.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex33_MathClass\obj\Debug\net6.0\ref\Ex33_MathClass.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\bin\Debug\net6.0\MathClass.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\bin\Debug\net6.0\MathClass.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\bin\Debug\net6.0\MathClass.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\bin\Debug\net6.0\MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\bin\Debug\net6.0\MathClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\refint\MathClass.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\MathClass.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\MathClass\obj\Debug\net6.0\ref\MathClass.dll
