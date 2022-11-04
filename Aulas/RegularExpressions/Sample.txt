@@ -1,0 +1,39 @@
+﻿123456789
+				
+202-555-0102
+202-555-0196
+202.555.0102
+202#555#0102
+
+##### CONDICAO PARA SELECINAR OS NUMEROS ABAIXO: (\+49)|0049|0?1(6|7)\d/\d{8}
+0175/12345678
++49165/12312347
+0049165/12312347
+
+abcdefghijklmnopqrstuvxyz
+ABCDEFGHIJKLMNOPRQSTUVXYZ
+
+LaLa La La LaLa
+
+Mr. Panjuta
+Mr Muller
+Mr Robert
+Mr. G
+Ms Smith
+Ms Jack
+
+// Chalange - find website links
+
+######  CONDICAO PARA SELECIONAR OS SITES: https?://(www.)?(\w+)(\.\w+)
+
+https://www.tutorials.eu
+https://tutorials.eu
+http://www.tutorials.eu
+http://tutorials.eu
+https://www.google.com
+
+test@tes.com
+
+MetaCharacters (Need to be escaped):
+
+.[{()\^$|?*+
