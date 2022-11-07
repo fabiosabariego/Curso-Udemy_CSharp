@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex32_ReadWriteFile", "Ex32_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex33_MathClass", "Ex33_MathClass\Ex33_MathClass.csproj", "{80F00C50-326F-4EC6-AD0F-40268B8575D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex34_RegularExpression", "Ex34_RegularExpression\Ex34_RegularExpression.csproj", "{94352D3F-6597-4C67-9238-9BF5902FFD10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F00C50-326F-4EC6-AD0F-40268B8575D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94352D3F-6597-4C67-9238-9BF5902FFD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94352D3F-6597-4C67-9238-9BF5902FFD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94352D3F-6597-4C67-9238-9BF5902FFD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94352D3F-6597-4C67-9238-9BF5902FFD10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

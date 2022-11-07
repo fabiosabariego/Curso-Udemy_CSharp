@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\bin\Debug\net6.0\Ex34_RegularExpression.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\bin\Debug\net6.0\Ex34_RegularExpression.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\bin\Debug\net6.0\Ex34_RegularExpression.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\bin\Debug\net6.0\Ex34_RegularExpression.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\bin\Debug\net6.0\Ex34_RegularExpression.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\refint\Ex34_RegularExpression.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\Ex34_RegularExpression.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex34_RegularExpression\obj\Debug\net6.0\ref\Ex34_RegularExpression.dll
