@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\bin\Debug\net6.0\DelegatesCreating.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\bin\Debug\net6.0\DelegatesCreating.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\bin\Debug\net6.0\DelegatesCreating.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\bin\Debug\net6.0\DelegatesCreating.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\bin\Debug\net6.0\DelegatesCreating.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\refint\DelegatesCreating.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\DelegatesCreating.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesCreating\obj\Debug\net6.0\ref\DelegatesCreating.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\bin\Debug\net6.0\Ex35_Delegates.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\bin\Debug\net6.0\Ex35_Delegates.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\bin\Debug\net6.0\Ex35_Delegates.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\bin\Debug\net6.0\Ex35_Delegates.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\bin\Debug\net6.0\Ex35_Delegates.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\refint\Ex35_Delegates.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\Ex35_Delegates.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Exercicios\Ex35_Delegates\obj\Debug\net6.0\ref\Ex35_Delegates.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\bin\Debug\net6.0\DelegatesBasic.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\bin\Debug\net6.0\DelegatesBasic.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\bin\Debug\net6.0\DelegatesBasic.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\bin\Debug\net6.0\DelegatesBasic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\bin\Debug\net6.0\DelegatesBasic.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\refint\DelegatesBasic.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\DelegatesBasic.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\DelegatesBasic\obj\Debug\net6.0\ref\DelegatesBasic.dll
