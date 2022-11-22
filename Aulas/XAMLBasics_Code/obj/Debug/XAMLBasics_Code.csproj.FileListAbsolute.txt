@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\bin\Debug\XAMLBasics_Code.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\bin\Debug\XAMLBasics_Code.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\bin\Debug\XAMLBasics_Code.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\MainWindow.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code_MarkupCompile.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code_MarkupCompile.lref
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\MainWindow.baml
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.g.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.Properties.Resources.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\XAMLBasics_Code\obj\Debug\XAMLBasics_Code.pdb

@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\bin\Debug\WPF_Aula01.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\bin\Debug\WPF_Aula01.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\bin\Debug\WPF_Aula01.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\MainWindow.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01_MarkupCompile.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01_MarkupCompile.lref
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\MainWindow.baml
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.g.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.Properties.Resources.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Aula01\obj\Debug\WPF_Aula01.pdb
