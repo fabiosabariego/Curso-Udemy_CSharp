@@ -13,25 +13,20 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace DependencyProperties
+namespace Interface_NotifyPropertyChanged
 {
     /// <summary>
     /// Interação lógica para MainWindow.xam
     /// </summary>
     public partial class MainWindow : Window
     {
-        public int MyProperty
-        {
-            get { return (int)GetValue(myDependencyProperty); }
-            set { SetValue(myDependencyProperty, value); }
-        }
-
-        public static readonly DependencyProperty myDependencyProperty =
-            DependencyProperty.Register("MyProperty", typeof(int), typeof(MainWindow), new PropertyMetadata(0));
-
+        public Sum SumObj { get; set; }
         public MainWindow()
         {
             InitializeComponent();
+
+            SumObj = new Sum { Num1 = "1", Num2= "3" };
+            this.DataContext = SumObj;
         }
     }
 }

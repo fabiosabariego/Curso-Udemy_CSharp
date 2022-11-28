@@ -13,22 +13,13 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace DependencyProperties
+namespace DataBinding
 {
     /// <summary>
     /// Interação lógica para MainWindow.xam
     /// </summary>
     public partial class MainWindow : Window
     {
-        public int MyProperty
-        {
-            get { return (int)GetValue(myDependencyProperty); }
-            set { SetValue(myDependencyProperty, value); }
-        }
-
-        public static readonly DependencyProperty myDependencyProperty =
-            DependencyProperty.Register("MyProperty", typeof(int), typeof(MainWindow), new PropertyMetadata(0));
-
         public MainWindow()
         {
             InitializeComponent();

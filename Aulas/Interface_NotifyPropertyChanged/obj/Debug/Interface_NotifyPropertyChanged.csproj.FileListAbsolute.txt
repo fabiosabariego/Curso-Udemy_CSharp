@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\bin\Debug\Interface_NotifyPropertyChanged.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\bin\Debug\Interface_NotifyPropertyChanged.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\bin\Debug\Interface_NotifyPropertyChanged.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged_MarkupCompile.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged_MarkupCompile.lref
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.g.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.Properties.Resources.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Interface_NotifyPropertyChanged\obj\Debug\Interface_NotifyPropertyChanged.pdb
