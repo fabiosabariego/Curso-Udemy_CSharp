@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\bin\Debug\WPF_ComboBox.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\bin\Debug\WPF_ComboBox.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\bin\Debug\WPF_ComboBox.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox_MarkupCompile.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox_MarkupCompile.lref
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.g.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.Properties.Resources.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_ComboBox\obj\Debug\WPF_ComboBox.pdb
