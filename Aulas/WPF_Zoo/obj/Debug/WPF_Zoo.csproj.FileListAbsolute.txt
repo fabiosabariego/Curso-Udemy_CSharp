@@ -1,0 +1,16 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\bin\Debug\WPF_Zoo.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\bin\Debug\WPF_Zoo.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\bin\Debug\WPF_Zoo.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\MainWindow.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo_MarkupCompile.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo_MarkupCompile.lref
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\MainWindow.baml
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.g.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.Properties.Resources.resources
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\WPF_Zoo\obj\Debug\WPF_Zoo.pdb
