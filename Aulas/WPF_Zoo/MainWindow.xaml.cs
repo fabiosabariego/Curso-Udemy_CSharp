@@ -33,7 +33,32 @@ namespace WPF_Zoo
             string connectionString = ConfigurationManager.ConnectionStrings["WPF_Zoo.Properties.Settings.FabioDBConnectionString"].ConnectionString;
             sqlConnection = new SqlConnection(connectionString);
             ShowZoos();
+            ShowAllAnimals();
         }
+
+        private void ShowAllAnimals()
+        {
+            try
+            {
+                string query = "select * from Animal";
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);
+                using (sqlDataAdapter)
+                {
+                    DataTable animalTable = new DataTable();
+                    sqlDataAdapter.Fill(animalTable);
+
+                    listAllAnimals.DisplayMemberPath = "Name";
+                    listAllAnimals.SelectedValuePath = "Id";
+                    listAllAnimals.ItemsSource = animalTable.DefaultView;
+                }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            
+        }
+
 
         private void ShowZoos()
         {
@@ -54,7 +79,7 @@ namespace WPF_Zoo
                     // Witch Information of the Table in DataTable should be shown in our listbox?
                     listZoo.DisplayMemberPath = "Location";
                     // Witch Value should be delivered, when an item from our listbox is selected?
-                    listZoo.SelectedValue = "Id";
+                    listZoo.SelectedValuePath = "Id";
                     // The reference to the Data the listbox shoud Populate
                     listZoo.ItemsSource = zooTable.DefaultView;
                 }
@@ -63,6 +88,47 @@ namespace WPF_Zoo
             {
                 MessageBox.Show(ex.ToString());
             }
+        }
+
+
+        private void ShowAnimals()
+        {
+            // Para trabalharmos com Banco de Dados, e sempre importante
+
+            try
+            {
+                string query = "select * from Animal a inner join ZooAnimal za on a.Id = za.AnimalId where za.ZooId = @ZooId";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                // The SqlDataAdapter can be imagined like an Interface to Make Tables usable by C# - Objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@ZooId", listZoo.SelectedValue);
+
+                    DataTable animalTable = new DataTable();
+                    sqlDataAdapter.Fill(animalTable);
+
+                    // Witch Information of the Table in DataTable should be shown in our listbox?
+                    listAssociatedAnimals.DisplayMemberPath = "Name";
+                    // Witch Value should be delivered, when an item from our listbox is selected?
+                    listAssociatedAnimals.SelectedValuePath = "Id";
+                    // The reference to the Data the listbox shoud Populate
+                    listAssociatedAnimals.ItemsSource = animalTable.DefaultView;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
+
+
+        private void listZoo_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ShowAnimals();
         }
     }
 }
