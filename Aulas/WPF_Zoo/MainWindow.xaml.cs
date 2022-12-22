@@ -90,6 +90,58 @@ namespace WPF_Zoo
             }
         }
 
+        private void ShowSelectedZooInBox()
+        {
+            try
+            {
+                string query = "select Location from Zoo WHERE Id = @ZooId";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                // The SqlDataAdapter can be imagined like an Interface to Make Tables usable by C# - Objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@ZooId", listZoo.SelectedValue);
+
+                    DataTable zooDataTable = new DataTable();
+                    sqlDataAdapter.Fill(zooDataTable);
+
+                    TxtAddDelete.Text = zooDataTable.Rows[0]["Location"].ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.ToString());
+            }
+        }
+
+        private void ShowSelectedAnimalInBox()
+        {
+            try
+            {
+                string query = "SELECT Name from Animal WHERE Id = @AnimalId";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@AnimalId", listAllAnimals.SelectedValue);
+
+                    DataTable animalDataTable = new DataTable();
+                    sqlDataAdapter.Fill(animalDataTable);
+
+                    TxtAddDelete.Text = animalDataTable.Rows[0]["Name"].ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.ToString());
+            }
+        }
+
 
         private void ShowAnimals()
         {
@@ -129,6 +181,12 @@ namespace WPF_Zoo
         private void listZoo_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowAnimals();
+            ShowSelectedZooInBox();
+        }
+
+        private void listAllAnimals_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ShowSelectedAnimalInBox();
         }
 
         private void DeleteZoo_Click(object sender, RoutedEventArgs e)
@@ -258,6 +316,51 @@ namespace WPF_Zoo
             {
                 sqlConnection.Close();
                 ShowAllAnimals();
+            }
+        }
+
+        private void UpdateZoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "UPDATE Zoo SET Location = @Location WHERE Id = @ZooId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@ZooId", listZoo.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Location", TxtAddDelete.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowZoos();
+            }
+        }
+
+        private void UpdateAnimal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "UPDATE Animal SET Name = @Name WHERE Id = @AnimalId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@AnimalId", listAllAnimals.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Name", TxtAddDelete.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowAllAnimals();
+                ShowAnimals();
             }
         }
     }
