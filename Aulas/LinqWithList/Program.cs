@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Cache;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
@@ -24,6 +25,33 @@ namespace LinqWithList
             Console.WriteLine("");
             Console.WriteLine("--------------- BEIJIGN TECH STUDENTS ---------------");
             um.AllStudentsFromBeijinTech();
+            Console.WriteLine("");
+            Console.WriteLine("--------------- UNIVERSITY ID ---------------");
+            //Coleta valor do ID da interface com Usuario
+            Console.Write("ID from University (1) or (2): ");
+            string input = Console.ReadLine();
+            int id = Convert.ToInt16(input);
+            um.SelectIdUniversity(id);
+            Console.WriteLine("");
+            Console.WriteLine("--------------- ANOTHER TESTS ---------------");
+            int[] someInts = { 30, 12, 4, 3, 12 };
+            IEnumerable<int> sortedInts = from i in someInts orderby i select i;
+            IEnumerable<int> reversedInts = sortedInts.Reverse();
+
+            foreach (int i in reversedInts)
+            {
+                Console.Write($"{i} ");
+            }
+
+            IEnumerable<int> reversedSortedInts = from num in someInts orderby num descending select num;
+            foreach (int num in reversedSortedInts)
+            {
+                Console.Write($"{num }");
+            }
+
+            Console.WriteLine("");
+            Console.WriteLine("--------------- STUDENTS AND UNIVERSITY ---------------");
+            um.StudentAndUniversityNameCollection();
 
             Console.ReadKey();
         }
@@ -45,10 +73,10 @@ namespace LinqWithList
                 // Add Some Students
                 students.Add(new Student() { Id = 1, Name = "Carla", Gender = "Female", Age = 17, UniversityId = 1 });
                 students.Add(new Student() { Id = 2, Name = "Tony", Gender = "Male", Age = 21, UniversityId = 1 });
-                students.Add(new Student() { Id = 2, Name = "Frank", Gender = "Male", Age = 29, UniversityId = 2 });
-                students.Add(new Student() { Id = 3, Name = "Leyla", Gender = "Female", Age = 19, UniversityId = 2 });
-                students.Add(new Student() { Id = 4, Name = "James", Gender = "Trans-gender", Age = 25, UniversityId = 2 });
-                students.Add(new Student() { Id = 5, Name = "Linda", Gender = "Female", Age = 22, UniversityId = 2 });
+                students.Add(new Student() { Id = 3, Name = "Frank", Gender = "Male", Age = 29, UniversityId = 2 });
+                students.Add(new Student() { Id = 4, Name = "Leyla", Gender = "Female", Age = 19, UniversityId = 2 });
+                students.Add(new Student() { Id = 5, Name = "James", Gender = "Trans-gender", Age = 25, UniversityId = 2 });
+                students.Add(new Student() { Id = 6, Name = "Linda", Gender = "Female", Age = 22, UniversityId = 2 });
             }
 
             public void MaleStudents()
@@ -94,6 +122,33 @@ namespace LinqWithList
                 foreach (Student student in bjtStudents)
                 {
                     student.Print();
+                }
+            }
+
+            public void SelectIdUniversity(int id)
+            {
+
+                IEnumerable<Student> idStudents = from std in students join univ in universities on std.UniversityId equals univ.Id
+                                                  where univ.Id == id
+                                                  select std;
+
+                Console.WriteLine($"Selected ID: {id}");
+                foreach (Student std in idStudents)
+                {
+                    std.Print();
+                }
+            }
+
+            public void StudentAndUniversityNameCollection()
+            {
+                var newCollection = from std in students join uni in universities on std.UniversityId equals uni.Id
+                                    orderby std.Name
+                                    select new {StdName = std.Name, UniName = uni.Name};
+
+                Console.WriteLine("New Collection: ");
+                foreach (var col in newCollection)
+                {
+                    Console.WriteLine($"{col.StdName} from {col.UniName}");
                 }
             }
         }

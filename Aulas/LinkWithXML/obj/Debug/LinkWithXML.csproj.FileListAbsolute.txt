@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\bin\Debug\LinkWithXML.exe.config
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\bin\Debug\LinkWithXML.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\bin\Debug\LinkWithXML.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\obj\Debug\LinkWithXML.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\obj\Debug\LinkWithXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\obj\Debug\LinkWithXML.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\obj\Debug\LinkWithXML.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\LinkWithXML\obj\Debug\LinkWithXML.pdb
