@@ -27,10 +27,21 @@ namespace LinqToSQL.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-LPL69IA\\FABIOSQL;Initial Catalog=FabioDB;Persist Security Inf" +
-            "o=True;User ID=sa")]
+            "o=True;User ID=sa;Password=e9j6d3e8F@bio.")]
         public string FabioDBConnectionString {
             get {
                 return ((string)(this["FabioDBConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-LPL69IA\\FABIOSQL;Initial Catalog=FabioDB;Persist Security Inf" +
+            "o=True;User ID=sa")]
+        public string FabioDBConnectionString1 {
+            get {
+                return ((string)(this["FabioDBConnectionString1"]));
             }
         }
     }

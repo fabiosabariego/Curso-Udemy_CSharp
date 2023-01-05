@@ -79,33 +79,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism01", "Polymorph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism_Abstract", "Polymorphism_Abstract\Polymorphism_Abstract.csproj", "{29623104-43F7-489D-B78D-0171646A2AFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polym_ReadTextFile", "Polym_ReadTextFile\Polym_ReadTextFile.csproj", "{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polym_ReadTextFile", "Polym_ReadTextFile\Polym_ReadTextFile.csproj", "{DE09AA85-7CCA-48A0-9EF9-D8921F7DA9F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polym_WriteTextFile", "Polym_WriteTextFile\Polym_WriteTextFile.csproj", "{3673335A-43E6-4E38-9A04-095114F2A864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polym_WriteTextFile", "Polym_WriteTextFile\Polym_WriteTextFile.csproj", "{3673335A-43E6-4E38-9A04-095114F2A864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{9E4CBF92-B553-4C92-87A5-A80B03CF7F75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{9E4CBF92-B553-4C92-87A5-A80B03CF7F75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{A6B999A4-8F0D-463C-8945-165B38876F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{A6B999A4-8F0D-463C-8945-165B38876F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClass", "MathClass\MathClass.csproj", "{DC5390F8-3980-4A49-901C-8F3F3C60BA5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathClass", "MathClass\MathClass.csproj", "{DC5390F8-3980-4A49-901C-8F3F3C60BA5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomClass", "RandomClass\RandomClass.csproj", "{0C369327-3858-46F6-A606-6AADCFCD48D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomClass", "RandomClass\RandomClass.csproj", "{0C369327-3858-46F6-A606-6AADCFCD48D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{62BB6C8A-301A-4762-99D7-EB2232F6D3E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{62BB6C8A-301A-4762-99D7-EB2232F6D3E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeClass", "DateTimeClass\DateTimeClass.csproj", "{EF8ABAE3-5524-4DD9-9664-45F78DC48F0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeClass", "DateTimeClass\DateTimeClass.csproj", "{EF8ABAE3-5524-4DD9-9664-45F78DC48F0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullables", "Nullables\Nullables.csproj", "{AA164D0E-C207-45B6-B66D-D32A36FE88D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullables", "Nullables\Nullables.csproj", "{AA164D0E-C207-45B6-B66D-D32A36FE88D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainArgs", "MainArgs\MainArgs.csproj", "{CA5C2FB1-7D5D-4573-8FFE-F746B8AD3F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainArgs", "MainArgs\MainArgs.csproj", "{CA5C2FB1-7D5D-4573-8FFE-F746B8AD3F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesBasic", "DelegatesBasic\DelegatesBasic.csproj", "{822984D7-77BB-4F98-843A-1024C1E209A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesBasic", "DelegatesBasic\DelegatesBasic.csproj", "{822984D7-77BB-4F98-843A-1024C1E209A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesCreating", "DelegatesCreating\DelegatesCreating.csproj", "{10358CFA-5E79-4A16-BDB3-10F937F65082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesCreating", "DelegatesCreating\DelegatesCreating.csproj", "{10358CFA-5E79-4A16-BDB3-10F937F65082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{4DCE930B-7D3A-4666-ACB1-CB172F978309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{4DCE930B-7D3A-4666-ACB1-CB172F978309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegate", "MulticastDelegate\MulticastDelegate.csproj", "{34FF3B02-4C17-4C9F-AE1F-D14E0F99019E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticastDelegate", "MulticastDelegate\MulticastDelegate.csproj", "{34FF3B02-4C17-4C9F-AE1F-D14E0F99019E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF CLASS", "WPF CLASS", "{9AC8D0EB-7751-474A-86B7-03F88AFE7FCE}"
 EndProject
@@ -143,7 +143,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithList", "LinqWithLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkWithXML", "LinkWithXML\LinkWithXML.csproj", "{8065002A-7E95-40EF-9052-293716A17987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSQL", "LinqToSQL\LinqToSQL.csproj", "{677963C1-53EB-43F1-8FDF-741FDDAB872D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSQL", "LinqToSQL\LinqToSQL.csproj", "{5E90EE26-C100-488B-B368-ABA6451940FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -419,10 +419,10 @@ Global
 		{8065002A-7E95-40EF-9052-293716A17987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8065002A-7E95-40EF-9052-293716A17987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8065002A-7E95-40EF-9052-293716A17987}.Release|Any CPU.Build.0 = Release|Any CPU
-		{677963C1-53EB-43F1-8FDF-741FDDAB872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{677963C1-53EB-43F1-8FDF-741FDDAB872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{677963C1-53EB-43F1-8FDF-741FDDAB872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{677963C1-53EB-43F1-8FDF-741FDDAB872D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E90EE26-C100-488B-B368-ABA6451940FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E90EE26-C100-488B-B368-ABA6451940FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E90EE26-C100-488B-B368-ABA6451940FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E90EE26-C100-488B-B368-ABA6451940FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -443,7 +443,7 @@ Global
 		{98A0363E-A1FC-4039-BC8E-5C7170B2A338} = {C21A42C9-E52A-441E-8F14-FD6B58E51D3F}
 		{CC89854F-CA3A-4B04-A7A5-AFC1D9B2776E} = {C21A42C9-E52A-441E-8F14-FD6B58E51D3F}
 		{8065002A-7E95-40EF-9052-293716A17987} = {C21A42C9-E52A-441E-8F14-FD6B58E51D3F}
-		{677963C1-53EB-43F1-8FDF-741FDDAB872D} = {C21A42C9-E52A-441E-8F14-FD6B58E51D3F}
+		{5E90EE26-C100-488B-B368-ABA6451940FA} = {C21A42C9-E52A-441E-8F14-FD6B58E51D3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6DF89F58-E085-4B88-9176-C3CBCEAB2FB2}
