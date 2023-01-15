@@ -35,7 +35,12 @@ namespace LinqToSQL
             //InsertUniversities();
             //InsertStudents();
             //GetUniversityOfTony();
-            GetLecturesFromTony();
+            //GetLecturesFromTony();
+            //GetStudentsFromYale();
+            //GetAllUniversitiesWithTrans();
+            //GetAllLectureFromUSP();
+            //UpdateTony();
+            DeleteJame();
         }
 
         public void InsertUniversities()
@@ -119,5 +124,46 @@ namespace LinqToSQL
 
             MainDataGrid.ItemsSource = tonyLecture;
         }
+
+        public void GetStudentsFromYale()
+        {
+            var studentsFromYale = from st in dataCont.Student where st.University.Name == "Yale" select st;
+
+            MainDataGrid.ItemsSource = studentsFromYale;
+        }
+
+        public void GetAllUniversitiesWithTrans()
+        {
+            var UnivWithTrans = from st in dataCont.Student join un in dataCont.University on st.University equals un where st.Gender == "Trans" select un;
+
+            MainDataGrid.ItemsSource = UnivWithTrans;
+        }
+
+        public void GetAllLectureFromUSP()
+        {
+            var LectureFromUSP = from sl in dataCont.StudentLecture join st in dataCont.Student on sl.StudentId equals st.Id where st.University.Name == "USP University" select sl.Lecture;
+
+            MainDataGrid.ItemsSource = LectureFromUSP;
+        }
+
+        public void UpdateTony()
+        {
+            Student Tony = dataCont.Student.FirstOrDefault(st => st.Name == "Tony");
+
+            Tony.Name = "Antonio";
+            dataCont.SubmitChanges();
+
+            MainDataGrid.ItemsSource = dataCont.Student;
+        }
+
+        public void DeleteJame()
+        {
+            Student Jame = dataCont.Student.FirstOrDefault(st => st.Name == "Jame");
+            dataCont.Student.DeleteOnSubmit(Jame);
+            dataCont.SubmitChanges();
+
+            MainDataGrid.ItemsSource = dataCont.Student;
+        }
+
     }
 }
