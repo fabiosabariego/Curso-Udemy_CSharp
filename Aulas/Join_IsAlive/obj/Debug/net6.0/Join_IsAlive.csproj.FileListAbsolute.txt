@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\bin\Debug\net6.0\Join_IsAlive.exe
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\bin\Debug\net6.0\Join_IsAlive.deps.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\bin\Debug\net6.0\Join_IsAlive.runtimeconfig.json
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\bin\Debug\net6.0\Join_IsAlive.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\bin\Debug\net6.0\Join_IsAlive.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\refint\Join_IsAlive.dll
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.pdb
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\Join_IsAlive.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Aulas C#\CursoUdemy\Curso-Udemy_CSharp\Aulas\Join_IsAlive\obj\Debug\net6.0\ref\Join_IsAlive.dll
